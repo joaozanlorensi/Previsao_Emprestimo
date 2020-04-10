@@ -1,2 +1,2 @@
-# Previsao_Emprestimo
-Projeto de predição de aprovação de empréstimos utilizando Python.
+# Previsão de empréstimo
+Projeto para prever a aprovação de um empréstimo utilizando Python.
